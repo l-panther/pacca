@@ -1,0 +1,17 @@
+[ 
+	{
+		name: "Name 1",
+		role: "manager",
+		image: "female"
+	},
+	{
+		name: "Name 2",
+		role: "administrator",
+		image: "male"
+	},
+	{
+		name: "Nme 3",
+		role: "staff",
+		image: "male"
+	}
+]
